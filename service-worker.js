@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/eric-saintetienne/yams/precache-manifest.7d5e4d943bdeecb757148e99e08523cc.js"
+  "/yams/precache-manifest.48dcafde2ed78412d5907d7518d1b50f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/eric-saintetienne/yams/index.html", {
+workbox.routing.registerNavigationRoute("/yams/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
