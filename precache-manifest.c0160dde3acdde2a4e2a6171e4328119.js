@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/yams/static/js/runtime~main.bb29782f.js"
   },
   {
-    "revision": "42f624035d8e167faac4",
-    "url": "/yams/static/js/main.42f62403.chunk.js"
+    "revision": "cadb6f99c577723d0365",
+    "url": "/yams/static/js/main.cadb6f99.chunk.js"
   },
   {
     "revision": "0cd6058fc3c24877ba89",
     "url": "/yams/static/js/1.0cd6058f.chunk.js"
   },
   {
-    "revision": "42f624035d8e167faac4",
-    "url": "/yams/static/css/main.a9b07f02.chunk.css"
+    "revision": "cadb6f99c577723d0365",
+    "url": "/yams/static/css/main.df185ce9.chunk.css"
   },
   {
-    "revision": "aeb4a87b27869934c88c99d216814ae8",
+    "revision": "81f121d7537f75b8d0a46162e98e57a6",
     "url": "/yams/index.html"
   }
 ];
