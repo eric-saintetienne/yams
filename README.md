@@ -8,4 +8,5 @@ It's in French with built-in rules and hardcoded player names, but it's perfectl
 
 The game can be accessed through Github Pages at https://eric-saintetienne.github.io/yams
 
+
 -gembrot
