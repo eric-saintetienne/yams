@@ -1,13 +1,13 @@
 {
-  "main.css": "/yams/static/css/main.54533270.chunk.css",
-  "main.js": "/yams/static/js/main.750ee7c2.chunk.js",
-  "main.js.map": "/yams/static/js/main.750ee7c2.chunk.js.map",
+  "main.css": "/yams/static/css/main.6aa0e068.chunk.css",
+  "main.js": "/yams/static/js/main.0d23c8be.chunk.js",
+  "main.js.map": "/yams/static/js/main.0d23c8be.chunk.js.map",
   "static/js/1.63a8f196.chunk.js": "/yams/static/js/1.63a8f196.chunk.js",
   "static/js/1.63a8f196.chunk.js.map": "/yams/static/js/1.63a8f196.chunk.js.map",
   "runtime~main.js": "/yams/static/js/runtime~main.bb29782f.js",
   "runtime~main.js.map": "/yams/static/js/runtime~main.bb29782f.js.map",
-  "static/css/main.54533270.chunk.css.map": "/yams/static/css/main.54533270.chunk.css.map",
+  "static/css/main.6aa0e068.chunk.css.map": "/yams/static/css/main.6aa0e068.chunk.css.map",
   "index.html": "/yams/index.html",
-  "precache-manifest.db3ef8d217abec21da05d921cf63cbe7.js": "/yams/precache-manifest.db3ef8d217abec21da05d921cf63cbe7.js",
+  "precache-manifest.e2b889bd54ed82e7f89d28db54db60d1.js": "/yams/precache-manifest.e2b889bd54ed82e7f89d28db54db60d1.js",
   "service-worker.js": "/yams/service-worker.js"
 }
